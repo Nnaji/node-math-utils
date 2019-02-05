@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "node-math-utils",
     "version": "1.0.0",
     "description": "",
@@ -15,17 +14,3 @@
         "eslint": "^5.13.0"
     }
 }
-=======
-  "name": "node-math-utils",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {}
-}
->>>>>>> 43811771630383cc2a7ef3c287383ba311bdaf4f
