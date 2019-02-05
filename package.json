@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/eslint": "^4.16.6",
+    "eslint": "^5.13.0"
+  }
 }
