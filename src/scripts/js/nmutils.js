@@ -6,10 +6,10 @@ function add(numa, numb) {
     // if (typeof numa | numb !== 'number') {
     //     throw 'number type values required';
     // }
-    return (numa + numb);
+    return numa + numb;
 }
 
-// Addn function takes a variable length of 
+// Addn function takes a variable length of
 function addn(...args) {
     let result = 0;
     let i = 0;

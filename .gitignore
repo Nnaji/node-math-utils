@@ -1,2 +1,6 @@
-/node_modules
-README.md
+node_modules/
+.vscode/
+*.swp
+dist/
+build/
+*.log
